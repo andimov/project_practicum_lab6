@@ -2,5 +2,4 @@
 Lab6 for project practicum. Shumada R. Y.
 
 
-
-https://project-practicum-andimov.c9users.io/admin/
+http://project-practicum-andimov.c9users.io/admin
